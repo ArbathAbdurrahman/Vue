@@ -17,6 +17,7 @@ function halo(){
 
 <template>
     <h1 class="hello">Hello Vue</h1>
+    <!-- {{}} bisa memanggil apapun kode javascript -->
     <h1>{{ hello.toUpperCase() }}</h1>
     <h1>{{ 80 * 80 }}</h1>
     <h1>{{ halo() }}</h1>
