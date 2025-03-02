@@ -15,7 +15,8 @@ export default defineConfig({
         sayhello: "sayHello.html",
         style: "style.html",
         ifElse: "ifelse.html",
-        forLoop: "forloop.html"
+        forLoop: "forloop.html",
+        contact: "contact.html"
       }
     }
   }
